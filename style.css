@@ -1,0 +1,124 @@
+.biryani{
+    display: flex;
+    justify-content: space-between;
+    margin: 10px;
+    text-align: center;
+    align-items: center;
+}
+.h1{
+    color: blue;
+}
+.Biryani-Card{
+    width: 300px;
+    border-radius:10px;
+    background-color: azure;
+    margin: 5px;
+    border: 2px solid black;
+    
+}
+.text{
+    font-weight: bold;
+    font-size: 10px;
+    margin: 10px;
+    text-align: center;
+    align-items: center;
+}
+.img{
+    
+    width: 280px;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 10px;
+    margin: 5px;
+    align-items: center;
+    justify-content: space-between;
+
+}
+body{
+    background-color: gray;
+    
+    
+    
+}
+.large1{
+    display: flex;
+    justify-content: space-between;
+   padding: 10px 10px 10px 10px;
+ 
+ 
+    
+    
+ }
+ .star{
+      color: yellow;
+      
+ }
+ #hollow{
+     color:gray;
+ }
+ .review{
+       color: gray;
+ }
+ .large2{
+     display:flex ;
+     justify-content:space-between ;
+     margin: 20px;
+ }
+ .cal{
+     font-size:20px;
+     color: black;
+     font-weight: lighter;
+ }
+ .veg{
+     border: none;
+     padding-left: 10px;
+     padding-right: 10px;
+     background-color: green;
+     color: white;
+     border-radius:5px;
+ }
+ .blank{
+     width: 90%;
+     padding: 2px;
+     background-color: gray;
+     margin-left: 10px;
+ 
+ }
+ .large3{
+      display: flex;
+      justify-content: space-between;
+      padding: 20px 20px 20px 20px;
+ 
+ }
+ .doller{
+     font-size: 30px;
+     color:orangered;
+ }
+ .count{
+      font-size: 20px;
+      color: black;
+      display: flex;
+ }
+ .minus{
+     border: 1px solid gray;
+     padding: 5px 5px 5px 5px;
+     font-weight: bold;
+     border-right: none;
+     border-radius: 5px;
+ }
+ .zero{
+     border: 1px solid gray;
+     padding: 5px 10px 5px 10px;
+     font-weight: bold;
+ }
+ .plus{
+     border: 1px solid gray;
+     padding: 5px 5px 5px 5px;
+     font-weight: bold;
+     border-left: none;
+     border-radius: 5px;
+ }
+
+    
+
+
